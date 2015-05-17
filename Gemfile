@@ -2,9 +2,9 @@ source 'http://rubygems.org'
 
 gem 'rails', '~> 3.2.21'
 
-gem 'mysql2', group: :mysql
+# gem 'mysql2', group: :mysql
 gem 'pg', group: :postgresql
-gem 'sqlite3', group: :sqlite3
+# gem 'sqlite3', group: :sqlite3
 
 gem 'acts_as_commentable'
 gem 'acts_as_indexed'
